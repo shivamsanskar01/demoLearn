@@ -1,3 +1,3 @@
 # demoLearn
-This is my first repository to learn Github
-Author-Shivam Upadhyay
+This is my first repository to learn Github. <br>
+Author -- Shivam Upadhyay
